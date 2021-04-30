@@ -1,5 +1,5 @@
 # Binoculars
-This was an Advanced Engineering Drawing (Autocad) project where I created a 3D Structured Binoculars.
+This was an Advanced Engineering Drawing (Autocad) project where I created a 3D CAD model of Binoculars.
 
 This is how it looks like:
 
